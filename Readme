@@ -1,0 +1,134 @@
+<!-- 100 Days of Code: The Complete Python Pro Bootcamp - README -->
+
+<h1 align="center">🐍 100 Days of Code: The Complete Python Pro Bootcamp</h1>
+
+<p align="center">
+  <a href="https://www.udemy.com/course/100-days-of-code/?couponCode=MT251015G4">
+    <img src="https://img.shields.io/badge/Udemy-Course-orange?logo=udemy&logoColor=white" alt="Udemy Badge" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" alt="Python Badge" />
+  </a>
+  <img src="https://img.shields.io/badge/Projects-100-green?logo=github" alt="100 Projects" />
+  <img src="https://img.shields.io/badge/Instructor-Dr.%20Angela%20Yu-purple" alt="Instructor Badge" />
+</p>
+
+---
+
+## 🧠 Course Overview
+
+> Master Python by building 100 projects in 100 days.  
+> Learn data science, automation, web development, games, and more — all in one bootcamp.
+
+This hands-on course by **Dr. Angela Yu** follows the **#100DaysOfCode** challenge format.  
+Every day, you’ll tackle a new Python project — from beginner tasks to professional apps.
+
+🎓 **Course link:** [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?couponCode=MT251015G4)
+
+---
+
+## 📚 What You’ll Learn
+
+✅ Write professional Python code  
+✅ Automate everyday tasks  
+✅ Build games (🎲 Blackjack, 🐍 Snake, 🏓 Pong)  
+✅ Create web apps with Flask  
+✅ Scrape websites with BeautifulSoup and Selenium  
+✅ Work with data science libraries: Pandas, NumPy, Matplotlib  
+✅ Design APIs and backend systems  
+✅ Build GUIs and desktop apps  
+✅ Deploy apps to Heroku and GitHub Pages  
+✅ Master version control with Git & GitHub  
+
+---
+
+## 💻 Requirements
+
+- No prior coding experience needed 🙌  
+- A 64-bit computer (Mac, PC, or Linux)  
+- Internet access  
+- All tools are **free or open-source**  
+- Step-by-step setup provided by the instructor  
+
+---
+
+## 🏗️ Course Structure
+
+📆 **Duration:** 100 Days  
+💡 **Format:** Project-based learning  
+🎥 **Content:** HD video lectures, challenges, quizzes  
+🧩 **Output:** 100 complete projects for your portfolio  
+
+Each day builds upon the previous — so you grow your skills gradually while keeping things practical and fun.
+
+---
+
+## 🧭 How to Succeed
+
+🔥 Commit to at least **1 hour of coding per day**  
+🧩 Code along with the instructor  
+📝 Document your learning and progress  
+💬 Engage in community discussions  
+📈 Push your projects to GitHub  
+💡 Refactor old projects as you improve  
+
+---
+
+## 💼 Portfolio Project Examples
+
+| Category | Example Projects |
+|-----------|------------------|
+| 🎮 Games | Blackjack, Snake, Pong |
+| 🧠 Automation | Email sender, data cleaner, web scraper |
+| 🌐 Web Dev | Personal blog, REST API, portfolio site |
+| 📊 Data Science | Data visualization dashboards |
+| 💻 Desktop Apps | GUI utilities with Tkinter |
+
+> 💼 By the end, you’ll have 100 projects to showcase on your résumé or portfolio.
+
+---
+
+## ⚙️ Tools & Technologies
+
+| Area | Tools / Libraries |
+|------|--------------------|
+| Core | Python 3, PyCharm, Jupyter Notebook |
+| Web Dev | Flask, HTML, CSS, Bootstrap |
+| Data | Pandas, NumPy, Matplotlib, Plotly, scikit-learn |
+| Automation | BeautifulSoup, Selenium, Requests |
+| Databases | SQLite, PostgreSQL |
+| Version Control | Git & GitHub |
+| Deployment | Heroku, GitHub Pages |
+
+---
+
+## 🤝 Support & Community
+
+💬 Join the **Udemy Q&A forums** for help and collaboration  
+⭐ Leave feedback to help improve the course  
+🔁 Updates are rolled out periodically based on student input  
+🛡️ 30-Day Money-Back Guarantee (via Udemy)
+
+---
+
+## 📜 Licensing & Conduct
+
+- Respect course copyright and instructor materials  
+- You may **share your own projects**, but not redistribute course videos or assets  
+- Follow community etiquette: be kind, respectful, and helpful  
+
+---
+
+## 🙏 Acknowledgements
+
+👩‍🏫 **Instructor:** [Dr. Angela Yu](https://www.udemy.com/user/angela-yu-2/)  
+🏫 **Platform:** [Udemy](https://www.udemy.com)  
+💻 **Community:** #100DaysOfCode contributors and open-source maintainers  
+
+---
+
+<p align="center">
+  <img src="https://www.python.org/static/community_logos/python-powered-w-100x40.png" alt="Python logo" />
+  <br />
+  <sub>© 2025 100 Days of Code Bootcamp — Educational use only.</sub>
+</p>
